@@ -1,0 +1,10 @@
+ensemble
+star
+bloom
+idol
+rabbit
+undead
+wink
+trickster
+valkyrie
+switch
